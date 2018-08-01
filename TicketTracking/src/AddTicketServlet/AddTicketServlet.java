@@ -34,6 +34,7 @@ public class AddTicketServlet extends HttpServlet {
 		out.println(t_number);
 		out.println(t_subject);
 		System.out.println(t_number);
+		System.out.println(t_subject);
 		
 		
 	}
